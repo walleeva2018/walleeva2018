@@ -23,7 +23,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Technologies  <!-- https://dev.to/envoy_/150-badges-for-github-pnk#blockchain  -->
 
@@ -43,7 +42,7 @@
 ### Learning 
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://w7.pngwing.com/pngs/991/165/png-transparent-docker-hd-logo-thumbnail.png)
+![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)
 
 
 ### Some of my cool public repositories (not forks):
