@@ -52,19 +52,28 @@
 
 ### Some of my cool public repositories (not forks):
 
-- **[Movie Recommender like movielens](https://github.com/walleeva2018/ML)**
-- **[Deskstop Voice assistant-Bilangual-OneFiler](https://github.com/walleeva2018/Bangla-desktop-Voice-assistance)**
-- **[Hacker News Website](https://github.com/walleeva2018/Vuex_VueRouter)**
-- **[Open Source Contribution-LightOJ-minimum contribution](https://github.com/walleeva2018/problem-tutorials)**
-- **[React-Daraz Like App with 17+ APIS](https://github.com/walleeva2018/Web)**
-- **[Mobile App for visually impaired people](https://github.com/walleeva2018/Assistance-for-Blind-People)**
-- ## Popular Projects
 <a href="https://github.com/walleeva2018/ML">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
 </a>  
 
+<a href="https://github.com/walleeva2018/Bangla-desktop-Voice-assistance">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
+</a>  
 
+<a href="https://github.com/walleeva2018/Web">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
+</a>  
+
+<a href="https://github.com/walleeva2018/Assistance-for-Blind-People">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
+</a>  
+
+- **[Hacker News Website](https://github.com/walleeva2018/Vuex_VueRouter)**
+- **[Open Source Contribution-LightOJ-minimum contribution](https://github.com/walleeva2018/problem-tutorials)**
 
 
 
