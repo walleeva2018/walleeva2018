@@ -1,6 +1,6 @@
 [![](https://github.com/walleeva2018/walleeva2018/blob/main/a%20(2)%20(1).gif?raw=true)]<!-- If you want the template for my gif, email me! -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rafi!;I'm+a+learning+developer...;I'm+a+CRAZY+fan+of+web3+cloud;And+I'm+a+workaholic+person+looking+to+contribute+into+opensource)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rafi!;I'm+a+learning+developer...;CRAZY+fan+of+web3+cloud;And+I'm+a+workaholic+person;looking+to+contribute+into+opensource)](https://git.io/typing-svg)
 
 <img src="https://profile-counter.glitch.me/walleeva2018/count.svg">
 
@@ -45,15 +45,6 @@
 - **[Mobile App for visually impaired people](https://github.com/walleeva2018/Assistance-for-Blind-People)**
 
 
-
-
-### Here's the languages that I am currently working on:
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
