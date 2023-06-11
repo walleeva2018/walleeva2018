@@ -10,6 +10,7 @@
 
 ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=walleeva2018&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2018&theme=radical)](https://git.io/streak-stats) 
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 [![trophy](https://github-profile-trophy.vercel.app/?username=walleeva2018)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -19,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Vue](https://img.shields.io/badge/-TypeScript-000?&logo=Vue)
 
 ### Technologies
 
@@ -31,9 +33,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/AvidCoder101/walleeva2018/blob/output/github-contribution-grid-snake.gif)
 
 
 ### Some of my cool public repositories (not forks):
