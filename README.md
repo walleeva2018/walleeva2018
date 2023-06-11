@@ -38,9 +38,33 @@
 ![Netlify](	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![HyperLedger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
-### Competitive Programming Profiles
+### Competitive Programming Profiles (Judge me by my Prime) 
 
-<a href="https://codeforces.com/profile/walleeva">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a>
+<a href="https://leetcode.com/walleeva2018/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
+<a href="https://codeforces.com/profile/walleeva">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a> 
+<a href="https://www.codechef.com/users/mcqueen2018">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://www.hackerrank.com/walleeva2018?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href="https://www.hackerearth.com/@walleeva2018">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
+[Atcoder](https://atcoder.jp/users/walleeva)
+[Toph](https://toph.co/u/mcqueen)
+[LightOJ](https://lightoj.com/user/zubairahmedr)
+
+### Live Project ( whichever is possible by free hosting) 
+
+[HackerNews](https://hacker-news-zubair.netlify.app/)
+[TODO APP](https://coruscating-smakager-fcb251.netlify.app/)
+[My educational Site(Naive)](https://gyanarjan.herokuapp.com/)
+[CP BLOG](https://sohojeprogramming.blogspot.com/)
+
+### Open Source 
+
+<a href="https://github.com/walleeva2018/problem-tutorials">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=problem-tutorials&theme=onedark" />
+</a>  
+
+
+
 ### Learning 
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -72,8 +96,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Assistance-for-Blind-People&theme=onedark" />
 </a>  
 
-- **[Hacker News Website](https://github.com/walleeva2018/Vuex_VueRouter)**
-- **[Open Source Contribution-LightOJ-minimum contribution](https://github.com/walleeva2018/problem-tutorials)**
 
 
 
