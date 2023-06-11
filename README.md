@@ -46,15 +46,22 @@
 <a href="https://www.hackerrank.com/walleeva2018?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <a href="https://www.hackerearth.com/@walleeva2018">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
 [Atcoder](https://atcoder.jp/users/walleeva)
+<br>
 [Toph](https://toph.co/u/mcqueen)
+<br>
 [LightOJ](https://lightoj.com/user/zubairahmedr)
+<br>
 
 ### Live Project ( whichever is possible by free hosting) 
 
 [HackerNews](https://hacker-news-zubair.netlify.app/)
+<br>
 [TODO APP](https://coruscating-smakager-fcb251.netlify.app/)
+<br>
 [My educational Site(Naive)](https://gyanarjan.herokuapp.com/)
+<br>
 [CP BLOG](https://sohojeprogramming.blogspot.com/)
+<br>
 
 ### Open Source 
 
