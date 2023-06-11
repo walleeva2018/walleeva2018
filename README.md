@@ -38,12 +38,16 @@
 ![Netlify](	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![HyperLedger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
+### Competitive Programming Profiles
+![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)(https://codeforces.com/profile/walleeva)
 
 ### Learning 
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetics](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+
+
 
 
 ### Some of my cool public repositories (not forks):
@@ -59,14 +63,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
 </a>  
-
-
-<a href="https://github.com/aastha12/Loan_Prediction">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
-</a> 
-
-
 
 
 
