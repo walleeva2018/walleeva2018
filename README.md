@@ -43,7 +43,7 @@
 ### Learning 
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://github.com/rhiokim/docker-icons/blob/master/media/intro.png?raw=true)
+![Docker](https://github.com/rhiokim/docker-icons/raw/master/media/intro.png?raw=true)
 
 
 ### Some of my cool public repositories (not forks):
