@@ -58,14 +58,21 @@
 
 ### Live Project ( whichever is possible by free hosting) 
 
-[HackerNews](https://hacker-news-zubair.netlify.app/)
-<br>
-[TODO APP](https://coruscating-smakager-fcb251.netlify.app/)
-<br>
-[My educational Site(Naive)](https://gyanarjan.herokuapp.com/)
-<br>
-[CP BLOG](https://sohojeprogramming.blogspot.com/)
-<br>
+<span>
+  <a href="https://hacker-news-zubair.netlify.app/"><img alt="HackerNews" title="HackerNews" src="https://img.shields.io/badge/-HackerNews-green?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</span>
+
+<span>
+  <a href="https://coruscating-smakager-fcb251.netlify.app/"><img alt="TODO" title="TODO" src="https://img.shields.io/badge/-TODOLIST-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</span>
+
+<span>
+  <a href="https://gyanarjan.herokuapp.com/"><img alt="Gyanarjan" title="GyanArjan" src="https://img.shields.io/badge/-EducationalSite-blue?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</span>
+
+<span>
+  <a href="https://sohojeprogramming.blogspot.com/"><img alt="CP" title="CP" src="https://img.shields.io/badge/-CPBlog-red?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</span>
 
 ### Open Source 
 
@@ -88,16 +95,23 @@
 ### Some of my cool public repositories (not forks):
 
 <a href="https://github.com/walleeva2018/ML">
-</a>  
-
-<a href="https://github.com/walleeva2018/Bangla-desktop-Voice-assistance">
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=tokyonight" />
+</a>
 
 <a href="https://github.com/walleeva2018/Web">
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Web&theme=tokyonight" />
+</a>
 
 <a href="https://github.com/walleeva2018/Assistance-for-Blind-People">
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Assistance-for-Blind-People&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/walleeva2018/Bangla-desktop-Voice-assistance">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Bangla-desktop-Voice-assistance&theme=tokyonight" />
+</a>
+
+
+
 
 
 
