@@ -67,8 +67,7 @@
 ### Open Source 
 
 <a href="https://github.com/walleeva2018/problem-tutorials">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazrai.vercel.app/api/pin/?username=walleeva2018&repo=problem-tutorials&theme=onedark" />
+  <button style="background:black"> Problem Tutorials </button>
 </a>  
 
 
@@ -85,23 +84,15 @@
 ### Some of my cool public repositories (not forks):
 
 <a href="https://github.com/walleeva2018/ML">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=ML&theme=onedark" />
 </a>  
 
 <a href="https://github.com/walleeva2018/Bangla-desktop-Voice-assistance">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Bangla-desktop-Voice-assistance&theme=onedark" />
 </a>  
 
 <a href="https://github.com/walleeva2018/Web">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Web&theme=onedark" />
 </a>  
 
 <a href="https://github.com/walleeva2018/Assistance-for-Blind-People">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=Assistance-for-Blind-People&theme=onedark" />
 </a>  
 
 
