@@ -68,7 +68,7 @@
 
 <a href="https://github.com/walleeva2018/problem-tutorials">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=problem-tutorials&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazrai.vercel.app/api/pin/?username=walleeva2018&repo=problem-tutorials&theme=onedark" />
 </a>  
 
 
