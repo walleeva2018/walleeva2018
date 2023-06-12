@@ -46,15 +46,15 @@
 <a href="https://www.hackerrank.com/walleeva2018?hr_r=1">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <a href="https://www.hackerearth.com/@walleeva2018">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
 <br>
-<p align="left">
+<span>
   <a href="https://atcoder.jp/users/walleeva"><img alt="Atcoder" title="AtCoder" src="https://img.shields.io/badge/-AtCoder-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</p>
-<p align="left">
-  <a href="https://toph.co/u/mcqueen"><img alt="Toph" title="Toph" src="https://img.shields.io/badge/-Toph-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</p>
-<p align="left">
+</span>
+<span>
+  <a href="https://toph.co/u/mcqueen"><img alt="Toph" title="Toph" src="https://img.shields.io/badge/-Toph-orange?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</span>
+<span>
   <a href="https://lightoj.com/user/zubairahmedr"><img alt="LightOJ" title="LightOJ" src="https://img.shields.io/badge/-LightOJ-blue?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</p>
+</span>
 
 ### Live Project ( whichever is possible by free hosting) 
 
