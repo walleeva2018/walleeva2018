@@ -49,13 +49,12 @@
 <p align="left">
   <a href="https://atcoder.jp/users/walleeva"><img alt="Atcoder" title="AtCoder" src="https://img.shields.io/badge/-AtCoder-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
-<br>
-[Atcode](https://atcoder.jp/users/walleeva)
-<br>
-[Toph](https://toph.co/u/mcqueen)
-<br>
-[LightOJ](https://lightoj.com/user/zubairahmedr)
-<br>
+<p align="left">
+  <a href="https://toph.co/u/mcqueen"><img alt="Toph" title="Toph" src="https://img.shields.io/badge/-Toph-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</p>
+<p align="left">
+  <a href="https://lightoj.com/user/zubairahmedr"><img alt="LightOJ" title="LightOJ" src="https://img.shields.io/badge/-LightOJ-blue?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</p>
 
 ### Live Project ( whichever is possible by free hosting) 
 
