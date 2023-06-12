@@ -71,7 +71,7 @@
 
 
 <a href="https://github.com/walleeva2018/problem-tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walleeva2018&repo=problem-tutorials&theme=tokyonight" />
 </a>
 
 
