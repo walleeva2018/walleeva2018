@@ -67,10 +67,6 @@
 </span>
 
 <span>
-  <a href="https://gyanarjan.herokuapp.com/"><img alt="Gyanarjan" title="GyanArjan" src="https://img.shields.io/badge/-EducationalSite-blue?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</span>
-
-<span>
   <a href="https://sohojeprogramming.blogspot.com/"><img alt="CP" title="CP" src="https://img.shields.io/badge/-CPBlog-red?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </span>
 
